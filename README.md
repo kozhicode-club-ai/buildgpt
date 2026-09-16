@@ -5,7 +5,7 @@ Building GPT from scratch: Andrej Karpathy's playlist sprint
 Learn the foundations of neural networks, backpropagation, language modelling, transformers, and training AI networks by going through [Andrej Karpathy's](https://youtu.be/VMj-3S1tku0?si=_wLnhlDzi_0kXnUe) Zero to Hero playlist on YouTube.
 
 ## Task:
-Complete Andrej Karpathy’s Zero to Hero series until "Let's build GPT: from scratch, in code, spelled out" and build a GPT from scratch on or before September 31, dedicating some time each day to learning, coding, and documenting your progress.
+Complete Andrej Karpathy’s Zero to Hero series until "Let's build GPT: from scratch, in code, spelled out" and build a GPT from scratch on or before October 1, dedicating some time each day to learning, coding, and documenting your progress.
 
 ## Repository Structure:
 
