@@ -13,6 +13,8 @@ Since this is a learning exercise, the code isn't what needs to be submitted. It
 
 ## 👥 Members
 1. Rabee Aman
+2. Rithu Reksha Raj
+3. Shinan Poroli
 ## 🔗 Resources
 [Playlist](https://youtu.be/VMj-3S1tku0?si=_wLnhlDzi_0kXnUe)  
 [Google Colab](https://colab.research.google.com/)
