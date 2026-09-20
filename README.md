@@ -18,6 +18,8 @@ Since this is a learning exercise, the code isn't what needs to be submitted. It
 4. Mohamed Sami
 5. Muhammed Hanin
 6. James Manuel Thomas
+7. Pranav Peringeth
+
 ## 🔗 Resources
 [Playlist](https://youtu.be/VMj-3S1tku0?si=_wLnhlDzi_0kXnUe)  
 [Google Colab](https://colab.research.google.com/)
